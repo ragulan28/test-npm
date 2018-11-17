@@ -1,5 +1,14 @@
 {
     "name": "@ragulan/ragulan28-test",
-    "version": "1.0.0"
-
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": "ragulan28/test-npm",
+    "main": "index.js",
+    "keywords": [
+      "testt",
+      "npm",
+      "package",
+      "ragulan"
+    ]
 }
